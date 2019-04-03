@@ -35,7 +35,7 @@ touch your_name.txt
 
 and typing your name in later.
 
-Now that you have everything set up, check the questions.txt and answer the questions in your newly created txt file.
+Now that you have everything set up, check the **questions.txt** and answer the questions in your newly created txt file.
 
 ### 3. Commiting your changes
 
@@ -47,7 +47,7 @@ git commit -m "your_commit_message"
 git push
 ```
 
-Notice that you just pushed your commit into _your branch_ and not into _master_.
+Notice that you just pushed your commit into **_your branch_** and not into **_master_**.
 
 ### 4. Making a pull request
 
