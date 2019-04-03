@@ -1,0 +1,9 @@
+1. Which High school are you from?
+
+2. What is your hobby?
+
+3. Favorite animal?
+
+4. Favorite movie?
+
+5. Favorite color?
