@@ -62,6 +62,6 @@ You can type in an optional (but really mandatory) comments for clearer commits 
 ![commit](/commit.png)
 After you see that there are no merge conflicts, you can push and merge your branch.
 
-#### 5. Celebrate!
+### 5. Celebrate!
 
 Now observe what your classmates said!
