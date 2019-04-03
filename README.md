@@ -54,4 +54,14 @@ Notice that you just pushed your commit into _your branch_ and not into _master_
 To merge your branch into master, you need to make a pull request.
 
 ![branch](/branch.png)
+After you commit, the _Compare & pull request_ button should appear.
 
+![pull request](/open.png)
+You can type in an optional (but really mandatory) comments for clearer commits and pull requests.
+
+![commit](/commit.png)
+After you see that there are no merge conflicts, you can push and merge your branch.
+
+### 5. Celebrate!
+
+Now observe what your classmates said!
