@@ -52,3 +52,6 @@ Notice that you just pushed your commit into _your branch_ and not into _master_
 ### 4. Making a pull request
 
 To merge your branch into master, you need to make a pull request.
+
+![branch](/branch.png)
+
