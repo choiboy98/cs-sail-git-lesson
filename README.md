@@ -1,6 +1,13 @@
 # cs-sail-git-lesson
 
-In this simple exercise, you will create a new branch, a new file, edit the file, push the commit, and make a pull request.
+In this simple exercise, you will create an issue, a new branch, a new file, edit the file, push the commit, and make a pull request.
+
+### 1. Creating an Issue
+
+![issue-1](/images/Issue-1.png)
+We create an Issue to organize the different tasks that are currently at hands. People use issues to assign tasks to different users. Without the use of Issues, it would be really hard to come up with a solid game plan in any development.
+
+![issue-2](/images/Issue-2.png)
 
 ### 1. Making a new branch and moving to that branch
 
