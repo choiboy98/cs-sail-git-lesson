@@ -18,10 +18,12 @@ In this simple exercise, you will create an issue, a new branch, a new file, edi
 - When you are creating a new issue,
   - Clarify what you are trying to resolve in your title (_for now_ **your name**)
   - Further describe what the issue entails
-- Now, you would assign the issue to other people, but in this case, assign it to yourself
+- **This only applies if you have permission to write on the branch**
+  - Now, you would assign the issue to other people, but in this case, assign it to yourself
 
 ![issue-5](/images/Issues-5.png)
-- After you assign yourself, assign an **_epic_** or a **_tag_** to your issue. This will organize your issues based on these tags.
+- **This only applies if you have permission to write on the branch**
+  - After you assign yourself, assign an **_epic_** or a **_tag_** to your issue. This will organize your issues based on these tags.
 
 ![issue-6](/images/Issues-6.png)
 - Now submit your issue!
