@@ -5,9 +5,26 @@ In this simple exercise, you will create an issue, a new branch, a new file, edi
 ### 1. Creating an Issue
 
 ![issue-1](/images/Issues-1.png)
-We create an Issue to organize the different tasks that are currently at hands. People use issues to assign tasks to different users. Without the use of Issues, it would be really hard to come up with a solid game plan in any development.
+
+- We create an Issue to organize the different tasks that are currently at hands. People use issues to assign tasks to different users. Without the use of Issues, it would be really hard to come up with a solid game plan in any development.
 
 ![issue-2](/images/Issues-2.png)
+
+- When you are in the Issue page, press the green **_new issue_** button.
+
+![issue-3](/images/Issues-3.png)
+
+![issue-4](/images/Issues-4.png)
+- When you are creating a new issue,
+  - Clarify what you are trying to resolve in your title (_for now_ **your name**)
+  - Further describe what the issue entails
+- Now, you would assign the issue to other people, but in this case, assign it to yourself
+
+![issue-5](/images/Issues-5.png)
+- After you assign yourself, assign an **_epic_** or a **_tag_** to your issue. This will organize your issues based on these tags.
+
+![issue-6](/images/Issues-6.png)
+- Now submit your issue!
 
 ### 1. Making a new branch and moving to that branch
 
@@ -61,13 +78,13 @@ Notice that you just pushed your commit into **_your branch_** and not into **_m
 To merge your branch into master, you need to make a pull request.
 
 ![branch](/images/branch.png)
-After you commit, the _Compare & pull request_ button should appear.
+- After you commit, the _Compare & pull request_ button should appear.
 
 ![pull request](/images/open.png)
-You can type in an optional (but really mandatory) comments for clearer commits and pull requests.
+- You can type in an optional (but really mandatory) comments for clearer commits and pull requests.
 
 ![commit](/images/commit.png)
-After you see that there are no merge conflicts, you can push and merge your branch.
+- After you see that there are no merge conflicts, you can push and merge your branch.
 
 ### 5. Celebrate!
 
