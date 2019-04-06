@@ -4,10 +4,10 @@ In this simple exercise, you will create an issue, a new branch, a new file, edi
 
 ### 1. Creating an Issue
 
-![issue-1](/images/Issue-1.png)
+![issue-1](/images/Issues-1.png)
 We create an Issue to organize the different tasks that are currently at hands. People use issues to assign tasks to different users. Without the use of Issues, it would be really hard to come up with a solid game plan in any development.
 
-![issue-2](/images/Issue-2.png)
+![issue-2](/images/Issues-2.png)
 
 ### 1. Making a new branch and moving to that branch
 
