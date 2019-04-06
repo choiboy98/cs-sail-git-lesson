@@ -26,7 +26,7 @@ In this simple exercise, you will create an issue, a new branch, a new file, edi
 ![issue-6](/images/Issues-6.png)
 - Now submit your issue!
 
-### 1. Making a new branch and moving to that branch
+### 2. Making a new branch and moving to that branch
 
 ```
 git checkout -b your_name
@@ -41,7 +41,7 @@ Great job! Any changes you make now will not affect the master branch directly!
 Now that you are in your branch, let's create a new file!
 There are easier ways to create a file, but we are gonna use command prompt.
 
-### 2. Creating a new file
+### 3. Creating a new file
 
 You will create a file & write your name into it at the same time.
 
@@ -61,7 +61,7 @@ and typing your name in later.
 
 Now that you have everything set up, check the **questions.txt** and answer the questions in your newly created txt file.
 
-### 3. Commiting your changes
+### 4. Commiting your changes
 
 To commit your changes, you will have to do the following:
 
@@ -73,7 +73,7 @@ git push
 
 Notice that you just pushed your commit into **_your branch_** and not into **_master_**.
 
-### 4. Making a pull request
+### 5. Making a pull request
 
 To merge your branch into master, you need to make a pull request.
 
@@ -82,10 +82,15 @@ To merge your branch into master, you need to make a pull request.
 
 ![pull request](/images/open.png)
 - You can type in an optional (but really mandatory) comments for clearer commits and pull requests.
+- In this comment, type:
+```
+resolves: #
+```
+- This will list all the issues that are available. You will find your issue and type the number in.
 
 ![commit](/images/commit.png)
 - After you see that there are no merge conflicts, you can push and merge your branch.
 
-### 5. Celebrate!
+### 6. Celebrate!
 
 Now observe what your classmates said!
